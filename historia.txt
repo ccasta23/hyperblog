@@ -13,3 +13,5 @@ Master 1
 Master 2
 
 Mañana hablaremos de su vida laboral.
+
+RC se acaba de realizar un fork al proyecto, lo copie y en este momento lo estoy modificando
