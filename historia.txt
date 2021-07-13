@@ -1,4 +1,4 @@
-Esta es la historia de Carlos Castañeda
+Esta es la historia de Carlos Castañeda y ahora tiene un colaborador (muchas gracias mi amigo)
 
 Tiene 25 años y nació en Colombia.
 
@@ -13,3 +13,5 @@ Master 1
 Master 2
 
 Mañana hablaremos de su vida laboral.
+
+RC se acaba de realizar un fork al proyecto, lo copie y en este momento lo estoy modificando
